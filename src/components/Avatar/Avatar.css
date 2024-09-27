@@ -1,0 +1,16 @@
+.children{
+    padding: 5px 10px;
+    border-radius: 40%;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    border: 1px solid #2463cfcc;
+    background-color: #2463cfcb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.children:hover{
+    opacity: 95%;
+}
